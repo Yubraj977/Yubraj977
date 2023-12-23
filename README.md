@@ -31,26 +31,14 @@
 
 # Hi 🙋‍♂️, Hello👋, Namaste🙏
 ### I'm 19 years old Self-taught Full-Stack developer from Nepal.
-
-
 #### - 🥀 Learning react  <code><img height="20" src="https://www.svgrepo.com/show/327388/logo-react.svg"></code>,Physology <code> <img height="20" width="20" src="https://cdn.pixabay.com/photo/2017/05/30/11/17/heart-2356621_1280.png"> 
-
 #### - 🦸‍♂️ I love IronMan, 
-
 #### - 🛠️ Open for work
-
 #### - 💬 Connect? Here 👉🏼[<img src="https://scontent.fkep3-1.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9I3mgeRpCDcAX__VllS&_nc_ht=scontent.fkep3-1.fna&oh=00_AfBsXOa33WaxMKg7mpBIK_FZWkhCGM7mLwu-qeeIIl4dxw&oe=658B03EB" height="25px" >](https://www.linkedin.com/in/yubraj-khatri-155786243/)
-
-
 <br />
-
-
-**I am Into , 🙏**
-
+**I am Into , **
 **, Web Development, SEO, Music, , Competetive Programming & Fun 😼**
 <br />
-
-
 ![Yubraj Github Stats](https://github-readme-stats.vercel.app/api?username=8bithemant&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 <br />
