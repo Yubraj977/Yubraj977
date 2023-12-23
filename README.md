@@ -1,5 +1,5 @@
 
-### Hi there, I'm [Yubraj Khatri](https://yubrajkhatri.com.np) 👋.  
+### Hi there, I'm [Yubraj Khatri](https://yubrajkhatri.com.np)  Follow me Here 👋.  
 
 <br/>
 <a href="https://twitter.com/">
@@ -20,13 +20,7 @@
 </a>
 
 
-
-![](https://visitor-badge.glitch.me/badge?page_id=8bithemant.8bithemant)
-
-<br />
-<br />
-
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
 <br />
 
 # Hi 🙋‍♂️, Hello👋, Namaste🙏
