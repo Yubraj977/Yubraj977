@@ -1,6 +1,10 @@
 
-### Hi there, I'm [Yubraj Khatri](https://yubrajkhatri.com.np)  Follow me Here 👋.  
 
+### Hi there, I'm [Yubraj Khatri](https://yubrajkhatri.com.np)  
+Follow me Here 👋.  
+
+
+<!--
 <br/>
 <a href="https://twitter.com/">
   <img align="left" alt="Yubraj Khatri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -20,8 +24,8 @@
 </a>
 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />
-<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />-->
+
 
 # Hi 🙋‍♂️, Hello👋, Namaste🙏
 ### I'm 19 years old Self-taught Full-Stack developer from Nepal.
