@@ -1,84 +1,47 @@
 
 
-### Hi there, I'm [Yubraj Khatri](https://yubrajkhatri.com.np)  
-Follow me Here 👋.  
+<div align="center">
+
+# Hi 🙋‍♂️, Hello 👋, Namaste 🙏  
+### I'm [Yubraj Khatri](https://yubrajkhatri.com.np)
+
+### 20-year-old Self-taught Full-Stack Developer from Nepal
+
+</div>
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Yubraj977&hide=stars&show_icons=true&theme=dark&line_height=32" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yubraj977&count_private=true&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Yubraj977&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_9&theme=dark" />
+    </td>
+    <td>
+      <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
-<!--
-<br/>
-<a href="https://twitter.com/">
-  <img align="left" alt="Yubraj Khatri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yubraj-khatri-155786243/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://www.instagram.com/yubraj007/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
-<a href="https://leetcode.com/Yubraj977/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif" />-->
 
-
-# Hi 🙋‍♂️, Hello👋, Namaste🙏
-### I'm 19 years old Self-taught Full-Stack developer from Nepal.
-#### - 🥀 Learning react  <code><img height="20" src="https://www.svgrepo.com/show/327388/logo-react.svg"></code>,Psychology <code> <img height="20" width="20" src="https://cdn.pixabay.com/photo/2017/05/30/11/17/heart-2356621_1280.png"> 
-#### - 🦸‍♂️ I love IronMan, 
-#### - 🛠️ Open for work
-#### - 💬 Connect? Here 👉🏼[<img src="https://scontent.fkep3-1.fna.fbcdn.net/v/t39.30808-6/277519684_10158675188522823_7436488509713286219_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9I3mgeRpCDcAX__VllS&_nc_ht=scontent.fkep3-1.fna&oh=00_AfBsXOa33WaxMKg7mpBIK_FZWkhCGM7mLwu-qeeIIl4dxw&oe=658B03EB" height="25px" >](https://www.linkedin.com/in/yubraj-khatri-155786243/)
-<br />
-**I am Into , **
-**, Web Development, SEO, Music, , Competetive Programming & Fun 😼**
-<br />
-
-<br />
-
-**********
-
-<br />
 
 
 <!--START_SECTION:waka-->
-**My 24 Hours🐤** 
-
-```text
-🌞 Morning    10 commits    ███████░░░░░░░░░░░░░░░░░░   31.09% 
-🌆 Daytime    82 commits     ██████░░░░░░░░░░░░░░░░░░░   24.05% 
-🌃 Evening    11 commits    ████████░░░░░░░░░░░░░░░░░   34.9% 
-🌙 Night      340 commits     ███████████████████░░░░░░    70%
-
-```
 
 
-📊 **This week I spent my time on** 
 
-```text
-⌚︎ Timezone: Asia/Nepal
 
-💬 Languages: 
-JavaScript              5 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.7% 
-Again javascript        5 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
-Last time js            2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Markdown                1 hr 58 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
-My HTML                 1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
-
-🔥 Just for fun: 
-Flex in linkendin        8 hrs 35 mins       ███████████░░░░░░░░░░░░░░   45.55% 
-sexy news about ai       7 hrs 47 mins       ██████████░░░░░░░░░░░░░░░   41.33% 
-Hackers Movies           2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
-
-💻 Operating Systems: 
-Windows                  18 hrs 52 mins      █████████████████████████   100.0%
-
-```
-**********
 
 
 ### - Languages and Tools...
@@ -101,20 +64,48 @@ Windows                  18 hrs 52 mins      ███████████�
   <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/gcp.svg" alt="Twitter" style="vertical-align:top; margin:4px"><img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Twitter" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="Twitter" style="vertical-align:top; margin:4px">
   
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
-
-
+ <br/>
+ <hr/>
+ <div>
 </p>
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yubraj977&hide=stars&show_icons=true&theme=dracula&line_height=32">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yubraj977&count_private=true&theme=dracula"> -->
-  
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=Yubraj977&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite" />
+<div align="center">
+
+### Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
+&nbsp;&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
+&nbsp;&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+&nbsp;&nbsp;&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+&nbsp;&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://yubrajkhatri.com.np)
+
+</div>
+
 
 ***********************************
+```text
+⌚︎ Timezone: EST,
 
-#### Thank You-🙏🏼
+💬 Languages: 
+English                      ████████████░░░░░░░░░░░░░   60.45% 
+Hindi                        ████████████████████░░░░░   80.45% 
+Nepali                       █████████████████████████   99.99% 
+JavaScript                   █████████████████████████   100% 
+Java                         █████████████████████████   100% 
+
+
+💻 Operating Systems: 
+Windows                      █████████████████████████   100.0% 
+Mac                          █████████████████████░░░░   85% 
+Linux                        ████████████████████░░░░░   80%
+```
+**********
+
+<div align='center' font='bold' font='100px'> Thank You-🙏🏼</div>
+
